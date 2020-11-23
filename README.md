@@ -9,7 +9,7 @@
   <img align="left" alt="Nitin Vinayak Agrawal | Twitter" width="21px" src="https://raw.githubusercontent.com/nitinvinayak/nitinvinayak/main/assets/twitter.svg" />
 </a>
 <a href="https://leetcode.com/nitinvinayak/">
-  <img align="left" alt="Nitin Vinayak Agrawal | Leetcode" width="21px" src="https://raw.githubusercontent.com/nitinvinayak/nitinvinayak/main/assets/leetcode.svg" />
+  <img align="left" alt="Nitin Vinayak Agrawal | Leetcode" width="21px" src="https://raw.githubusercontent.com/nitinvinayak/nitinvinayak/main/assets/leetcode.png" />
 </a>
 
 <br />
