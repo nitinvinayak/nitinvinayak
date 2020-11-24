@@ -28,7 +28,7 @@ Hi, I'm Nitin Vinayak Agrawal, a final year student at BITS Pilani from India.
   </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinvinayak&layout=compact&langs_count=10&hide=Cuda,Makefile,CMake/">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinvinayak&layout=compact&langs_count=10&hide=Cuda,Makefile,CMake">
   </a>
 
 <!--
