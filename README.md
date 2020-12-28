@@ -17,7 +17,6 @@
 
 Hi, I'm Nitin Vinayak Agrawal, a final year student at BITS Pilani from India.
 
-- 🔭 I’m currently working as a data science intern at [Voziq India](https://voziq.com/)
 - 👯 I’m an aspiring data scientist, checkout my [Resume](https://drive.google.com/file/d/1KfnAMLx5eHMat80fOXr-JYWu5Ubs2I9n/view)
 - 💬 Ask me about anything [here](https://github.com/nitinvinayak/nitinvinayak/issues)
 
