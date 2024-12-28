@@ -18,6 +18,7 @@
 Hi, I’m Nitin Vinayak Agrawal, a Data Scientist at MiQ Digital, based in India.
 
 👯 I’m passionate about data science and always eager to learn and grow—feel free to check out my [resume](https://drive.google.com/file/d/1hSOy1LnJhok-GS_KEXCrkNA_rtBrIr1J/view)!
+
 💬 Have any questions? Don’t hesitate to ask me anything [here](https://github.com/nitinvinayak/nitinvinayak/issues)!
 
 
